@@ -4,10 +4,21 @@
     margin: 0;
 }
 
+/*Basic body, a and p element formatting */
 body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*This section contains CSS that pertains to the header and nav bar section */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,15 +58,7 @@ body {
     text-decoration: none;   
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* this section is the main bodys  properties and background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -80,7 +83,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* This section formats the sidebar classes */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -139,7 +142,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Sidebar text classes */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -166,7 +169,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*sidebar img properties*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -178,7 +181,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/*Sidebar h2 properties*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -193,7 +196,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Footer class and h2 properties*/
 .footer {
     padding: 30px;
     clear: both;
