@@ -164,7 +164,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Sidebar h3 properties */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -179,7 +179,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Sidebar img properties */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
