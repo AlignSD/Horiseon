@@ -1,5 +1,9 @@
 # Horiseon #
 
+![Horiseon Screen Shot](/assets/images/digital-marketing-meeting.jpg)
+
+https://alignsd.github.io/Horiseon/ - Link To Website!
+
 ## User Story
 
 Since our service provides services for optimization I wanted to refract our page to adhere to accessibility standards.
@@ -32,7 +36,7 @@ Fork This Repository!
 
 Then Clone it to your desktop to make changes.
 
-> $ git clone {YOUR_REPOSITORY_CLONE_URL}<br>
+> $ git clone https://github.com/AlignSD/Horiseon.git<br>
 > $ cd Horiseon
 
 ## License
